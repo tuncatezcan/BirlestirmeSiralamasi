@@ -1,0 +1,8 @@
+C:\Users\Tunca\source\repos\YapayZeka\bin\Debug\YapayZeka.exe.config
+C:\Users\Tunca\source\repos\YapayZeka\bin\Debug\YapayZeka.exe
+C:\Users\Tunca\source\repos\YapayZeka\bin\Debug\YapayZeka.pdb
+C:\Users\Tunca\source\repos\YapayZeka\obj\Debug\YapayZeka.csproj.AssemblyReference.cache
+C:\Users\Tunca\source\repos\YapayZeka\obj\Debug\YapayZeka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tunca\source\repos\YapayZeka\obj\Debug\YapayZeka.csproj.CoreCompileInputs.cache
+C:\Users\Tunca\source\repos\YapayZeka\obj\Debug\YapayZeka.exe
+C:\Users\Tunca\source\repos\YapayZeka\obj\Debug\YapayZeka.pdb
